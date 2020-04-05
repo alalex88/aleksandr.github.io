@@ -22,11 +22,11 @@ body {
 .page-footer {
 	min-width: 970px;
 	height: 80px;
-	margin-top: -80px;
+	margin-top: 280px;
 }
 /*конец футер прибьем*/
 .page-footer{
-	/*background: #eff3f7 url(../img/pattern.png) top content no-repeat;*/
+	background: #eff3f7 url(../img/pattern.png) top content no-repeat;
 	background-color: #eff3f7;
 	font-family: 'fira_sanslight';
 	color: #4a545d;
